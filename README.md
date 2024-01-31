@@ -11,3 +11,4 @@ a for fun project despite my very lacking knowledge on web dev, so development w
 - color palette
 - able to change brush/eraser sizes
 - implementation of other tools (thinking of starting with the **bucket** tool)
+- move to a framework? (possibly react)
